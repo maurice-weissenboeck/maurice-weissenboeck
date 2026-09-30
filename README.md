@@ -1,7 +1,7 @@
 ## maurice.
 
-freelance ai engineer in vienna. agents, backends, product.<br>
-writing code since 2016, professionally since 2021. these days i build ai systems for clients and small tools for my family and myself. studying economics at WU vienna.
+freelance engineer in vienna. ai, blockchain, product.<br>
+writing code since 2016, professionally since 2021. ai systems, blockchain backends, product work. studying economics at WU vienna.
 
 [maurice@weissenboeck.xyz](mailto:maurice@weissenboeck.xyz) · [linkedin](https://www.linkedin.com/in/maurice-weissenboeck/)
 
